@@ -88,3 +88,31 @@ def gene_expression_algorithm():
 
 if __name__ == "__main__":
     gene_expression_algorithm()
+
+
+############OUTPUT##############
+Generation 1: Best Fitness = 2.7969, Best x = 1.0734
+Generation 2: Best Fitness = 2.7969, Best x = 1.0734
+Generation 3: Best Fitness = 2.7969, Best x = 1.0734
+Generation 4: Best Fitness = 2.7969, Best x = 1.0734
+Generation 5: Best Fitness = 2.7969, Best x = 1.0734
+Generation 6: Best Fitness = 2.7969, Best x = 1.0734
+Generation 7: Best Fitness = 2.7969, Best x = 1.0734
+Generation 8: Best Fitness = 2.7969, Best x = 1.0734
+Generation 9: Best Fitness = 2.7969, Best x = 1.0734
+Generation 10: Best Fitness = 2.7969, Best x = 1.0734
+Generation 11: Best Fitness = 2.8500, Best x = 0.8500
+Generation 12: Best Fitness = 2.8500, Best x = 0.8500
+Generation 13: Best Fitness = 2.8500, Best x = 0.8500
+Generation 14: Best Fitness = 2.8500, Best x = 0.8500
+Generation 15: Best Fitness = 2.8500, Best x = 0.8500
+Generation 16: Best Fitness = 2.8500, Best x = 0.8500
+Generation 17: Best Fitness = 2.8500, Best x = 0.8500
+Generation 18: Best Fitness = 2.8500, Best x = 0.8500
+Generation 19: Best Fitness = 2.8500, Best x = 0.8500
+Generation 20: Best Fitness = 2.8500, Best x = 0.8500
+
+Best solution found:
+Genes: [0.7313343460597577, 1.750811600233984, 0.6814813701556528, 1.1072991240638683, 0.7575511610578631, -0.6632321416155509, 1.6138652820728567, 1.3113617727594153, 1.7792614099071211, -0.5701278035021983]
+x = 0.8500
+f(x) = 2.8500
