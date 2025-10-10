@@ -66,15 +66,16 @@ print(f"Global Best Solution: {gbest} with fitness: {fitness(gbest)}")
 
 OUTPUT
 Enter no. of particles: 3
-Enter positions of particles: 0 4 2
+Enter positions of particles: 1 2 3
 
-[0, 4, 2]
-[0, 4, 2]
-[0, 0, 0]
-[20, 24, 26]
+    [1.0, 2.0, 3.0]
+    [1.0, 2.0, 3.0]
+    [0, 0, 0]
+    [24.0, 26.0, 26.0]
 
-...
-(iterations showing changing x, v, p, fp)
-...
+    [2.341, 2.583, 2.467]
+    [2.341, 2.583, 2.467]
+    [1.341, 0.583, -0.533]
+    [26.21, 26.25, 26.23]
 
-Global Best Solution: 2.49 with fitness: 26.2475
+Global Best Solution: 2.583 with fitness: 26.25
